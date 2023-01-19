@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Ninjago-Alphabet';
+    src: url('../fonts/NinjagoAlphabetRegular-WyR0Y.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Shinobi-Regular';
+    src: url('../fonts/ShinobiRegular-2OR5w.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
